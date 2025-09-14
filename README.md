@@ -6,12 +6,13 @@
 </p>
 
 
-
 <h1 align="center">📚 Audiobook Checker </h1>
 
 <p align="center">Automated system for tracking new audiobook releases on audioboo.org.
 Sends Telegram notifications when new books are detected.</p>
+
 ---
+
 ## ✨ Features
 
 - 🔍 **Automatic daily checks** for updates
